@@ -1,9 +1,8 @@
-//import 'file:///D:/flutterproject/flumeride_first/lib/sign_up/components/sign_up_form.dart';
+import 'file:///D:/flutterproject/flumeride_first/lib/sign_up/components/sign_up_form.dart';
 import 'package:flumeride_first/components/socal_card.dart';
 import 'package:flumeride_first/constants.dart';
 import 'package:flumeride_first/size_config.dart';
 import 'package:flutter/material.dart';
-import 'sign_up_form.dart';
 
 class Body extends StatelessWidget {
   @override
